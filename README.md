@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Akash Shil <br>I'm a Front-End Developer and ui/ux desginer<br>I’m currently learning Python, Nextjs</h2>
+<h2 align="left">Hi 👋! My name is Akash Shil <br>I'm a 👨🏿‍💻Front-end Developer and ui/ux desginer<br>I’m currently learning Python, Nextjs<br>🌍from India.</h2>
 
 ###
 
@@ -37,11 +37,11 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<h3 align="left">Hello World!!</h3>
 
 ###
+<div align="center"><img height="150" src="https://i.imgflip.com/65efzo.gif"  /></div>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
@@ -55,5 +55,7 @@
 
  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
 </div>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/AkashHub2002/count.svg?"  />
+</div>
 
-###
