@@ -62,8 +62,15 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="100">
 
  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+ <br>
 </div>
 <div align="center">
   <img src="https://profile-counter.glitch.me/AkashHub2002/count.svg?"  />
 </div>
+<br>
+<div align="left">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="890">
+  </div>
+  <br>
+
 
